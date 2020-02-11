@@ -198,6 +198,7 @@ Ces solutions sont des combinaisons de fournisseurs de cloud computing et de sys
 
 ### Bare Metal
 
+* [Charmed Kubernetes](https://ubuntu.com/kubernetes) by [Canonical](https://canonical.com)
 * [CoreOS](/docs/setup/custom-cloud/coreos/)
 * [Digital Rebar](/docs/setup/on-premises-metal/krib/)
 * [Docker Enterprise](https://www.docker.com/products/docker-enterprise)
